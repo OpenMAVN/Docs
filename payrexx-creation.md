@@ -5,9 +5,40 @@ Put *Your business e-mail address* and *Desired name*
 2. https://signup.payrexx.com/en/confirm<br>
 Confirm your email address
 3. https://signup.payrexx.com/en/settings<br>
-Choose *Organization* type and fill it.
-![image](https://github.com/OpenMAVN/Docs/raw/master/images/payrexx-organization-info.png)<br>
-Pricing options:<br>
-| Option | Description |
+Choose *Organization* type and fill it.<br>
+![image](https://github.com/OpenMAVN/Docs/raw/master/images/payrexx-organization-info.png)
+
+Pricing options:
+
+| Instance name | Api key |
 | :- | :- |
-| Free | ``` Is and remains free. Includes credit card payments and PayPal as payment methods. The Payrexx transaction fees are 1%. You can receive money in 1 currency. ``` |
+| Free | Is and remains free. Includes credit card payments and PayPal as payment methods.<br> The Payrexx transaction fees are 1%. You can receive money in 1 currency. |
+| Non profit | We charge you CHF 14.5 per month for the selected period.<br> The Payrexx transaction fees are 0.2%. You can connect 4 payment service providers. You can receive money in 5 different currencies. |
+| Starter | We charge you CHF 15 per month for the selected period.<br> You can connect 3 payment service providers. You can receive money in 2 different currencies. You have manual payment methods available. |
+| Plus | We charge you CHF 29 per month for the selected period.<br> You can connect 4 payment service providers. You can receive money in 5 different currencies. |
+| Premium | We charge you CHF 49 per month for the selected period.<br> You can connect an unlimited amount of payment service providers. You can receive money in more than 160 different currencies. |
+
+Choose Free.
+
+4. Set up payment methods<br>
+Choose *Credit and debit cards with Payrexx Direct*
+![image](https://user-images.githubusercontent.com/11960985/87147264-fba4ba00-c2b4-11ea-9ca4-a87275953041.png)
+
+5. So in result you will have 30 days of free trial, so you can configure API Integrations.
+![image](https://user-images.githubusercontent.com/11960985/87147670-b59c2600-c2b5-11ea-817a-43571bcc19e7.png)
+
+6. Go to menu item *Payment providers* and configure *Payrexx direct*
+![image](https://user-images.githubusercontent.com/11960985/87148162-94880500-c2b6-11ea-8572-0ae75cf2cd1b.png)
+
+7. Payrexx direct<br>
+Configure *Currencies* to necessary currencies, for example: CHF, EUR, GBP, RUB, USD<br>
+Choose necessary *Payment methods*, for example: Mastercard, Visa, Apple Pay, Google Pay<br>
+![image](https://user-images.githubusercontent.com/11960985/87148348-e9c41680-c2b6-11ea-859f-867f50c18061.png)
+
+8. Get API integrations details to put in OpenMAVN platform portal.
+Instance Name:<br>
+It is *Desired name* from step 1, for example: **openmavn-demo**
+
+Api key:<br>
+Go to menu item *API & Integrations* and copy *Default API Key*.
+![image](https://user-images.githubusercontent.com/11960985/87148862-dc5b5c00-c2b7-11ea-9d70-abea8b3310ea.png)
