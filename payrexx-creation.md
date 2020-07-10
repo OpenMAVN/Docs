@@ -35,7 +35,7 @@ Configure *Currencies* to necessary currencies, for example: CHF, EUR, GBP, RUB,
 Choose necessary *Payment methods*, for example: Mastercard, Visa, Apple Pay, Google Pay<br>
 ![image](https://user-images.githubusercontent.com/11960985/87148348-e9c41680-c2b6-11ea-859f-867f50c18061.png)
 
-8. Get API integrations details to put in OpenMAVN platform portal.
+8. Get API integrations details to put in OpenMAVN platform portal.<br>
 Instance Name:<br>
 It is *Desired name* from step 1, for example: **openmavn-demo**
 
