@@ -29,6 +29,8 @@ Choose *Credit and debit cards with Payrexx Direct*
 
 6. Go to menu item *Payment providers* and configure *Payrexx direct*
 ![image](https://user-images.githubusercontent.com/11960985/87148162-94880500-c2b6-11ea-8572-0ae75cf2cd1b.png)
+You can also change Mode to *Test* or *Live*
+![image](https://user-images.githubusercontent.com/11960985/102326110-07e42000-3f95-11eb-816b-b8d2a11e8def.png)
 
 7. Payrexx direct<br>
 Configure *Currencies* to necessary currencies, for example: CHF, EUR, GBP, RUB, USD<br>
