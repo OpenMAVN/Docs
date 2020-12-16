@@ -9,16 +9,9 @@ Choose *Organization* type and fill it.<br>
 ![image](https://github.com/OpenMAVN/Docs/raw/master/images/payrexx-organization-info.png)
 
 Pricing options:
+![image](https://user-images.githubusercontent.com/11960985/102331854-6791f980-3f9c-11eb-8d1d-3cf7a03db1b7.png)
 
-| Instance name | Api key |
-| :- | :- |
-| Free | Is and remains free. Includes credit card payments and PayPal as payment methods.<br> The Payrexx transaction fees are 1%. You can receive money in 1 currency. |
-| Non profit | We charge you CHF 14.5 per month for the selected period.<br> The Payrexx transaction fees are 0.2%. You can connect 4 payment service providers. You can receive money in 5 different currencies. |
-| Starter | We charge you CHF 15 per month for the selected period.<br> You can connect 3 payment service providers. You can receive money in 2 different currencies. You have manual payment methods available. |
-| Plus | We charge you CHF 29 per month for the selected period.<br> You can connect 4 payment service providers. You can receive money in 5 different currencies. |
-| Premium | We charge you CHF 49 per month for the selected period.<br> You can connect an unlimited amount of payment service providers. You can receive money in more than 160 different currencies. |
-
-Choose Free.
+Choose "TRIAL - free" for beginning.
 
 4. Set up payment methods<br>
 Choose *Credit and debit cards with Payrexx Direct*
