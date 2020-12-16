@@ -10,8 +10,7 @@ Choose *Organization* type and fill it.<br>
 
 Pricing options:
 <br>
-<img src="https://user-images.githubusercontent.com/11960985/102331854-6791f980-3f9c-11eb-8d1d-3cf7a03db1b7.png"
-     style="width: 200px; box-shadow: 0 0px 15px 0px powderblue;">
+![](https://user-images.githubusercontent.com/11960985/102331854-6791f980-3f9c-11eb-8d1d-3cf7a03db1b7.png | width=200)
 
 Choose "TRIAL - free" for beginning.
 
